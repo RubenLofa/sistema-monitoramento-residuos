@@ -1,0 +1,23 @@
+{
+  "name": "sistema-monitoramento-residuos",
+  "version": "1.0.0",
+  "description": "Sistema inteligente de monitoramento e controle de resíduos sólidos em prédios urbanos com câmeras IP e penalidades automáticas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubenLofa/sistema-monitoramento-residuos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubenLofa/sistema-monitoramento-residuos/issues"
+  },
+  "homepage": "https://github.com/RubenLofa/sistema-monitoramento-residuos#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
